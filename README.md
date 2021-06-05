@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Praveen-Kumar-Bairagi
+- 👀 I’m interested in ...jim and music
+- 🌱 I’m currently learning ...js
+- 📫 How to reach me bairagipraveen349@gmail.com
