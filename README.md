@@ -69,7 +69,7 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 
 <h3>Github Stats</h3>
 
-[![Anmol GitHub stats](https://github-readme-stats.vercel.app/api?username=iamanmolmehra&hide=contribs,prs&theme=tokyonight)](https://github.com/Praveen-Kumar-Bairagi/github-readme-stats)
+[![Praveen GitHub stats](https://github-readme-stats.vercel.app/api?username=Praveen-Kumar-Bairagi&hide=contribs,prs&theme=tokyonight)](https://github.com/Praveen-Kumar-Bairagi/github-readme-stats)
 
 <h3>Friend</h3>
 <img height="20px" width="20px" src="https://avatars.githubusercontent.com/u/44016225?v=4"><a href="https://github.com/anandpatel504"></a></img>
